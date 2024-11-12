@@ -18,7 +18,7 @@ Welcome to the **Generative AI Cookbook**! This guide serves as a comprehensive 
 
 ## Introduction
 
-This cookbook is designed to help developers, architects, and AI enthusiasts create, integrate, and optimize generative AI applications. Each recipe focuses on a specific functionality or component, like **Document Extraction**, **Access Control**, or **LLM Proxy and Chargeback**. Meals are complete solutions, combining several recipes into an end-to-end application, like an **AI-powered Customer Support Assistant** or a **Searchable Document Repository**.![image](https://github.com/user-attachments/assets/2a5c3854-25d4-40fe-b425-86f8ec0a5401)
+This cookbook is designed to help developers, architects, and AI enthusiasts create, integrate, and optimize generative AI applications. Each recipe focuses on a specific functionality or component, like **Document Extraction**, **Access Control**, or **LLM Proxy and Chargeback**. Meals are complete solutions, combining several recipes into an end-to-end application, like an **AI-powered Customer Support Assistant** or a **Searchable Document Repository**
 
 
 ### Key Concepts
