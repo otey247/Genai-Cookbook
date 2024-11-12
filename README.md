@@ -114,7 +114,7 @@ Our recipes are organized into the following categories:
 ### 8. **Personalization and User Experience**
    - **User Personalization Framework**: Tailoring responses to individual users.
    - **Query Prioritization**: Setting priorities for tasks and queries.
-   - **Language Translation Integration**: Enabling multilingual support.![image](https://github.com/user-attachments/assets/df75eaf5-cf9a-46d8-988d-0b465c3ed003)
+   - **Language Translation Integration**: Enabling multilingual support.
 
 
 ## 🍽️ Meals (Use Cases)
