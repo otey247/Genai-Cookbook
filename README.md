@@ -1,15 +1,32 @@
 # Generative AI Application Cookbook
 
-Welcome to the Generative AI Application Cookbook! This repository contains recipes, patterns, and complete solutions for building production-ready generative AI applications. Think of this cookbook as your guide to creating AI solutions, where developers are chefs crafting meals (complete solutions) from various recipes (components) using different ingredients (tools and services).
+Welcome to the **Generative AI Cookbook**! This guide serves as a comprehensive collection of "recipes" and "meals" to help developers build and deploy generative AI applications efficiently. Here, you’ll find step-by-step instructions for essential components (recipes), and full application scenarios (meals) designed to serve real-world business needs.
 
-##  How to Use This Cookbook
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Key Concepts](#key-concepts)
+- [Structure](#strcuture)
+- [Meals](#meals)
+- [Recipes](#recipes)
+- [Ingredients](#ingredients)
+- [Chefs' Skillset](#chefs-skillset)
+- [Getting Started](#getting-started)
+- [Contributing](#contributing)
+- [License](#license)
+
+
+## Introduction
+
+This cookbook is designed to help developers, architects, and AI enthusiasts create, integrate, and optimize generative AI applications. Each recipe focuses on a specific functionality or component, like **Document Extraction**, **Access Control**, or **LLM Proxy and Chargeback**. Meals are complete solutions, combining several recipes into an end-to-end application, like an **AI-powered Customer Support Assistant** or a **Searchable Document Repository**.![image](https://github.com/user-attachments/assets/2a5c3854-25d4-40fe-b425-86f8ec0a5401)
+
 
 ### Key Concepts
 
-- **👩‍🍳 Chefs (Developers)**: The technical professionals who combine recipes into complete meals
-- **🍽️ Meals (Use Cases)**: Complete end-to-end solutions that solve specific business problems
-- **📑 Recipes (Components)**: Individual functional components that can be combined into meals
-- **🧂 Ingredients (Tools & Services)**: The technical tools, services, and resources used in recipes
+- **Meals (Use Cases)**: Complete end-to-end solutions that solve specific business problems
+- **Recipes (Components)**: Individual functional components that can be combined into meals
+- **Ingredients (Tools & Services)**: The technical tools, services, and resources used in recipes
+- **Chefs (Developers)**: The technical professionals who combine recipes into complete meals
 
 ### Structure
 
@@ -21,48 +38,17 @@ cookbook/
 └── docs/              # Additional documentation
 ```
 
-## Chef's Skills (Developer Requirements)
 
-To effectively use this cookbook, developers should be proficient in:
-
-1. **Data Handling and Preprocessing**
-   - Data cleaning and structuring
-   - Feature engineering
-   - Quality assurance
-
-2. **Model Deployment and Scaling**
-   - Infrastructure management
-   - Performance optimization
-   - Load balancing
-
-3. **API and Tool Integration**
-   - RESTful APIs
-   - Authentication systems
-   - Third-party service integration
-
-4. **Prompt Engineering**
-   - Context design
-   - Response optimization
-   - Instruction crafting
-
-5. **Security and Compliance**
-   - Data privacy
-   - Access control
-   - Regulatory compliance
-
-6. **System Monitoring**
-   - Performance metrics
-   - Error tracking
-   - User feedback analysis
-
-7. **Cost Optimization**
-   - Resource management
-   - Usage tracking
-   - Efficiency improvements
-
-## Recipes (Components)
+## Recipes
 
 Recipes are modular components that address specific functionalities within generative AI applications. Each recipe includes required **ingredients**, **preparation steps**, **methods**, and **best practices**.
+
+Some key recipes include:
+- [Document Extraction](recipes/document-extraction.md)
+- [OAuth-based Document Access Control](recipes/document-access-control.md)
+- [LLM Proxy & Chargeback](recipes/llm-proxy-chargeback.md)
+- [Monitoring Framework](recipes/monitoring-framework.md)
+
 
 Our recipes are organized into the following categories:
 
@@ -90,56 +76,34 @@ Our recipes are organized into the following categories:
 ### 8. **Personalization and User Experience**
 
 
+##  Meals
 
-## 🍽️ Meals (Use Cases)
+Meals are comprehensive use cases crafted by combining several recipes to address specific business requirements. Each meal includes detailed steps for integration, deployment, and optimization to guide developers in creating complete generative AI solutions.
 
-Example complete solutions built from our recipes:
+- [AI-Powered Customer Support Assistant](meals/ai-powered-customer-support-assistant.md)
+- [Searchable Document Repository](meals/searchable-document-repository.md)
+- [Automated Report Generation](meals/automated-report-generation.md)
 
-1. **Searchable Document Repository**
-   - Intelligent document search and retrieval
-   - Semantic understanding
-   - Access control
 
-2. **AI-Powered Customer Support**
-   - Conversational AI
-   - Knowledge base integration
-   - Ticket management
+## Ingredients
 
-3. **Automated Report Generation**
-   - Document processing
-   - Data extraction
-   - Template management
+Ingredients refer to the tools, libraries, and services used to create each recipe. They include resources from major hyperscalers like **Azure**, **AWS**, and **GCP**, as well as open-source libraries and specialized AI/ML tools.
 
-## 🧂 Ingredients (Tools & Services)
 
-### Cloud Platforms
-- Azure Services
-- AWS Services
-- Google Cloud Platform
-- Salesforce
+## Chefs' Skillset
 
-### AI/ML Tools
-- LLM APIs
-- Vector Databases
-- Embedding Services
-- OCR Tools
+To “prepare” a meal, developers need certain skills. Each skill supports efficient development and deployment, from **Data Handling and Preprocessing** to **Cost Optimization**. A detailed guide on each skill is available in the "Chef's Skillset" section.
 
-### Development Tools
-- Programming Languages
-- Frameworks
-- Libraries
-- Development Environments
 
-### Infrastructure
-- Compute Resources
-- Storage Solutions
-- Networking Tools
-- Security Services
+## Getting Started
 
-## 📚 Contributing
+To start, choose a **meal** (use case) that aligns with your goal, then follow the instructions to gather the required **recipes**. Detailed setup guides are provided in each recipe.
+
+
+## Contributing
 
 We welcome contributions! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to submit new recipes or meals.
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
