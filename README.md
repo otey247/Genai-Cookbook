@@ -46,10 +46,10 @@ cookbook/
 Recipes are modular components that address specific functionalities within generative AI applications. Each recipe includes required **ingredients**, **preparation steps**, **methods**, and **best practices**.
 
 Some key recipes include:
-- [Document Extraction](recipes/document-extraction.md)
-- [OAuth-based Document Access Control](recipes/document-access-control.md)
-- [LLM Proxy & Chargeback](recipes/llm-proxy-chargeback.md)
-- [Monitoring Framework](recipes/monitoring-framework.md)
+- [Document Extraction](recipes/data_handling_and_retrieval/document_extraction.md)
+- [OAuth-based Document Access Control](recipes/data_handling_and_retrieval/document_access_control.md)
+- [LLM Proxy & Chargeback](recipes/cost_management_and_optimization/llm_proxy_chargeback.md)
+- [Monitoring Framework](recipes/monitoring_security_and_compliance/monitoring_framework.md)
 
 
 Our recipes are organized into the following categories:
@@ -68,9 +68,9 @@ Our recipes are organized into the following categories:
 
 Meals are comprehensive use cases crafted by combining several recipes to address specific business requirements. Each meal includes detailed steps for integration, deployment, and optimization to guide developers in creating complete generative AI solutions.
 
-- [AI-Powered Customer Support Assistant](meals/ai-powered-customer-support-assistant.md)
-- [Searchable Document Repository](meals/searchable-document-repository.md)
-- [Automated Report Generation](meals/automated-report-generation.md)
+- [AI-Powered Customer Support Assistant](meals/ai_powered_customer_support_assistant.md)
+- [Searchable Document Repository](meals/searchable_document_repository.md)
+- [Automated Report Generation](meals/automated_report_generation.md)
 
 
 ## Ingredients
