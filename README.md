@@ -6,7 +6,7 @@ Welcome to the **Generative AI Cookbook**! This guide serves as a comprehensive 
 ## Table of Contents
 - [Introduction](#introduction)
 - [Key Concepts](#key-concepts)
-- [Structure](#strcuture)
+- [Structure](#structure)
 - [Meals](#meals)
 - [Recipes](#recipes)
 - [Ingredients](#ingredients)
