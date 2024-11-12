@@ -54,28 +54,14 @@ Some key recipes include:
 
 Our recipes are organized into the following categories:
 
-### 1. **Core Generative AI Capabilities**
-
-
-### 2. **Data Handling and Retrieval**
-
-
-### 3. **Agentic and Tool-Enabled Assistants**
-
-
-### 4. **Experimentation and Evaluation**
-
-
-### 5. **Deployment and Scalability**
-
-
-### 6. **Monitoring, Security, and Compliance**
-
-
-### 7. **Cost Management and Optimization**
-
-
-### 8. **Personalization and User Experience**
+- **Core Generative AI Capabilities**
+- **Data Handling and Retrieval**
+- **Agentic and Tool-Enabled Assistants**
+- **Experimentation and Evaluation**
+- **Deployment and Scalability**
+- **Monitoring, Security, and Compliance**
+- **Cost Management and Optimization**
+- **Personalization and User Experience**
 
 
 ##  Meals
