@@ -35,7 +35,9 @@ cookbook/
 ├── meals/              # Complete use case implementations
 ├── recipes/            # Individual component implementations
 ├── templates/          # Templates for new recipes and meals
-└── docs/              # Additional documentation
+├── assets/             # Assets and images for repo and articles
+├── articles/           # Articles on cookbook recipes and meals
+└── docs/               # Additional documentation
 ```
 
 
