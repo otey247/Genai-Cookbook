@@ -21,7 +21,7 @@ cookbook/
 └── docs/              # Additional documentation
 ```
 
-## 👩‍🍳 Chef's Skills (Developer Requirements)
+## Chef's Skills (Developer Requirements)
 
 To effectively use this cookbook, developers should be proficient in:
 
@@ -60,7 +60,9 @@ To effectively use this cookbook, developers should be proficient in:
    - Usage tracking
    - Efficiency improvements
 
-## 📑 Recipes (Components)
+## Recipes (Components)
+
+Recipes are modular components that address specific functionalities within generative AI applications. Each recipe includes required **ingredients**, **preparation steps**, **methods**, and **best practices**.
 
 Our recipes are organized into the following categories:
 
