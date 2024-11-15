@@ -71,6 +71,8 @@ Contributions are welcome, please adhere to the [contribution guidelines](contri
 | [Mixtral-8x7B-v0.1](https://huggingface.co/mistralai/Mixtral-8x7B-v0.1) | The Mixtral-8x7B Large Language Model (LLM) is a pretrained generative Sparse Mixture of Experts.                                                                                          |                                                                                                           |
 | [StableLM](https://github.com/Stability-AI/StableLM)                    | StableLM: Stability AI Language Models                                                                                                                                                     | ![GitHub Badge](https://img.shields.io/github/stars/Stability-AI/StableLM.svg?style=flat-square)          |
 | [Qwen2.5-Coder](https://github.com/QwenLM/Qwen2.5-Coder)                | Qwen2.5-Coder is the code version of Qwen2.5, the large language model series developed by Qwen team, Alibaba Cloud.                                                                       | ![GitHub Badge](https://img.shields.io/github/stars/QwenLM/Qwen2.5-Coder.svg?style=flat-square)           |
+| [Llama Models](https://github.com/meta-llama/llama-models)              | Utilities intended for use with Llama models, developed by Meta.                                                                                                                           | ![GitHub Badge](https://img.shields.io/github/stars/meta-llama/llama-models.svg?style=flat-square)        |
+
 
 
 **[⬆ back to ToC](#table-of-contents)**
