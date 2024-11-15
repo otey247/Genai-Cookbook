@@ -1,4 +1,4 @@
-# JumpStart  Tools
+# JumpStart Developer Tools
 
 A curated list of tools for GenAI Jumpstart developers.
 
@@ -70,6 +70,8 @@ Contributions are welcome, please adhere to the [contribution guidelines](contri
 | [Luotuo](https://github.com/LC1332/Luotuo-Chinese-LLM)                  | A Chinese LLM, Based on LLaMA and fine tune by Stanford Alpaca, Alpaca LoRA, Japanese-Alpaca-LoRA.                                                                                         | ![GitHub Badge](https://img.shields.io/github/stars/LC1332/Luotuo-Chinese-LLM.svg?style=flat-square)      |
 | [Mixtral-8x7B-v0.1](https://huggingface.co/mistralai/Mixtral-8x7B-v0.1) | The Mixtral-8x7B Large Language Model (LLM) is a pretrained generative Sparse Mixture of Experts.                                                                                          |                                                                                                           |
 | [StableLM](https://github.com/Stability-AI/StableLM)                    | StableLM: Stability AI Language Models                                                                                                                                                     | ![GitHub Badge](https://img.shields.io/github/stars/Stability-AI/StableLM.svg?style=flat-square)          |
+| [Qwen2.5-Coder](https://github.com/QwenLM/Qwen2.5-Coder)                | Qwen2.5-Coder is the code version of Qwen2.5, the large language model series developed by Qwen team, Alibaba Cloud.                                                                       | ![GitHub Badge](https://img.shields.io/github/stars/QwenLM/Qwen2.5-Coder.svg?style=flat-square)           |
+
 
 **[⬆ back to ToC](#table-of-contents)**
 
